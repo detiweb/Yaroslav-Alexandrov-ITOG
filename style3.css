@@ -1,0 +1,30 @@
+.button1{
+	width: 200px;
+	height: 50px;
+	font-size: 20px;
+	background: #3B8D9C;
+	border: 0px solid blue;
+}
+a{
+	text-decoration: none;
+}
+h1{
+	text-align: center;
+	color: #74D5E6;
+}
+nav{
+	margin-left: 30%;
+}
+div{
+	border: 3px solid #74D5E6;
+	width: 17.38%;
+}
+form{
+	display: inline-block;
+}
+.p1{
+	display: inline-block;
+	margin-left: 40%;
+	font-size: 30px;
+}
+body{background: url(more.jpg);}
